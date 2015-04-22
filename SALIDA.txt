@@ -1,0 +1,4 @@
+Ingrese un numero para conocer si es PAR o IMPAR
+6
+El numero es PAR
+
